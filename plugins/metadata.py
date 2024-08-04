@@ -3,6 +3,7 @@ from pyrogram.types import Message, CallbackQuery, InlineKeyboardButton, InlineK
 from helper.database import jishubotz
 from pyromod.exceptions import ListenerTimeout
 from config import Txt
+import ffmpeg
 
 
 
